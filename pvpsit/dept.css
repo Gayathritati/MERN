@@ -7,7 +7,7 @@
 }
 
 body {
-    color: white;
+    color: rgb(8, 2, 2);
     text-align: center;
     background-size: cover;
     background-position: center;
@@ -16,7 +16,7 @@ body {
 
 /* Header Section */
 header {
-    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    background: rgba(228, 104, 210, 0.7); /* Semi-transparent background */
     padding: 20px 0;
 }
 
@@ -28,7 +28,7 @@ header h1 {
 /* Main Content */
 main {
     padding: 50px 20px;
-    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    background: rgba(215, 115, 189, 0.5); /* Semi-transparent background */
     max-width: 800px;
     margin: 50px auto;
     border-radius: 10px;
@@ -51,27 +51,3 @@ footer p {
     margin: 0;
 }
 
-/* Background Images for Different Pages */
-body.btech-cse {
-    background-image: url('https://example.com/cse-bg.jpg'); /* Replace with actual CSE background image URL */
-}
-
-body.btech-ece {
-    background-image: url('https://example.com/ece-bg.jpg'); /* Replace with actual ECE background image URL */
-}
-
-body.btech-eee {
-    background-image: url('https://example.com/eee-bg.jpg'); /* Replace with actual EEE background image URL */
-}
-
-body.btech-me {
-    background-image: url('https://example.com/me-bg.jpg'); /* Replace with actual ME background image URL */
-}
-
-body.btech-ce {
-    background-image: url('https://example.com/ce-bg.jpg'); /* Replace with actual CE background image URL */
-}
-
-body.btech-it {
-    background-image: url('https://example.com/it-bg.jpg'); /* Replace with actual IT background image URL */
-}
