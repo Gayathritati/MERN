@@ -16,7 +16,7 @@ body {
 
 /* Header Section */
 header {
-    background: rgba(228, 104, 210, 0.7); /* Semi-transparent background */
+    background: rgba(107, 196, 107, 0.7); /* Semi-transparent background */
     padding: 20px 0;
 }
 
@@ -27,8 +27,11 @@ header h1 {
 
 /* Main Content */
 main {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.Xo3xa5bBsZSOqiZkkkwpQwAAAA&pid=Api&P=0&h=180");
+    background-size: cover;
+    background-position: center;
     padding: 50px 20px;
-    background: rgba(215, 115, 189, 0.5); /* Semi-transparent background */
+    background: rgba(109, 191, 101, 0.5); /* Semi-transparent background */
     max-width: 800px;
     margin: 50px auto;
     border-radius: 10px;
